@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><radialGradient id="bg"><stop stop-color="#1b3870"/><stop offset="1" stop-color="#0a1024"/></radialGradient><linearGradient id="z" x1=".1" x2=".9" y1="0" y2="1"><stop stop-color="#f1f8ff"/><stop offset=".36" stop-color="#78b4ff"/><stop offset="1" stop-color="#2a4bd7"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="20" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="1200" height="630" fill="url(#bg)"/><circle cx="810" cy="310" r="250" fill="#467fe0" opacity=".12"/><circle cx="810" cy="310" r="195" fill="none" stroke="#99c5ff" stroke-opacity=".2"/><circle cx="810" cy="310" r="155" fill="none" stroke="#99c5ff" stroke-opacity=".16"/>
+  <path d="M708 94h255L840 216l91 70-167 176 31-153-99-73 111-112H708z" fill="url(#z)" stroke="#eaf3ff" stroke-opacity=".8" stroke-width="5" stroke-linejoin="round" filter="url(#glow)"/>
+  <text x="112" y="274" fill="#eaf3ff" font-family="Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="10">7ZMA</text><text x="118" y="337" fill="#a9cbff" font-family="Arial,sans-serif" font-size="35">حزمة</text><text x="118" y="429" fill="#d3e4ff" font-family="Arial,sans-serif" font-size="29">Bundle up. Level up.</text>
+</svg>
